@@ -1,0 +1,242 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+h1 {
+    font-size: 5.625rem;
+    /*100%=16px*/
+    margin-top: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1.heading {
+    color: antiquewhite;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 25px;
+    color: #222831;
+}
+
+.subheading {
+    color: antiquewhite;
+}
+
+.profile-h2 {
+    color: antiquewhite;
+}
+
+.profile-p1 {
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+.top-container {
+    background-color: #222831;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+.bottom_cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+    height: 75px;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    height: 75px;
+}
+
+.krishen {
+    height: 200px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+.computer {
+    width:25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 100px;
+}
+
+.chip {
+    width:25%;
+    float: right;
+    margin-left:6px;
+    margin-bottom: 100px;
+}
+
+.home {
+    width:25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 100px;
+}
+
+.it {
+    width:25%;
+    float: right;
+    margin-right: 30px;
+    
+}
+
+.mountain {
+    background-color: antiquewhite;
+}
+
+.profile {
+    background-color: #393e46;
+    padding-top: 100px;
+
+}
+
+.profile_text {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    color: antiquewhite;
+    width: 30%;
+    margin: auto;
+    padding-bottom: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skills {
+    background-color: #b2fcff;
+    margin-top: 0px;
+    font-weight: 100;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.myskills {
+    padding-top: 10px;
+    margin-top: 0px;
+    color: #222831;
+
+
+}
+.p-design{
+    font-weight: bold;
+    color: #222831;
+}
+.p-firm {
+    font-weight: bold;
+    color: #222831;
+}
+.p-iot{
+    font-weight: bold;
+    color: #222831;
+}
+.it-heading{
+    text-align: inherit; 
+}
+.p-it {
+    margin-bottom: 0px;
+    font-weight: bold;
+    color: #222831;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 0px;
+    height: 5px;
+    background-color: #ff5858
+        /*#ed1250*/
+    ;
+
+}
+
+.middle-container {
+    margin-top: 0px;
+    font-weight: 500;
+}
+
+.contact-me {
+    background-color: #eeeeee;
+}
+
+.touch {
+    margin-top: 0px;
+    padding-top: 100px;
+    color: #222831;
+}
+
+.bottom-container {
+    background-color: #eeeeee;
+    padding-top: 100px;
+    
+}
+
+.trademark {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    background-color: #eeeeee;
+    font-size: 6pt;
+    padding-top: 100px;
+}
+
+a{
+    color: #393e46;
+    font-weight: bold;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
+
+.cont-text{
+    padding-bottom: 75px;
+}
+.butn {
+    background: #7a7a7a;
+    background-image: -webkit-linear-gradient(top, #7a7a7a, #282c2e);
+    background-image: -moz-linear-gradient(top, #7a7a7a, #282c2e);
+    background-image: -ms-linear-gradient(top, #7a7a7a, #282c2e);
+    background-image: -o-linear-gradient(top, #7a7a7a, #282c2e);
+    background-image: linear-gradient(to bottom, #7a7a7a, #282c2e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height: 50px;
+    width: 25px;
+    
+  }
+  
+  .butn:hover {
+    background: #1f1f1f;
+    background-image: -webkit-linear-gradient(top, #1f1f1f, #02304f);
+    background-image: -moz-linear-gradient(top, #1f1f1f, #02304f);
+    background-image: -ms-linear-gradient(top, #1f1f1f, #02304f);
+    background-image: -o-linear-gradient(top, #1f1f1f, #02304f);
+    background-image: linear-gradient(to bottom, #1f1f1f, #02304f);
+    text-decoration: none;
+    
+  }
